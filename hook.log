@@ -1,0 +1,196 @@
+
+------------------------
+2020.03.12 9:53:44 UTC
+Входные параметры
+Array
+(
+    [DOMAIN] => testchernyak.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 782ba954c3b222c0689c086351480e3d
+    [AUTH_ID] => b7146a5e004529a00043ea00000000014038039e3470e7792c44f0c6b204ac1b4647da
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a793915e004529a00043ea00000000014038035a39c6aedbbaaba5e1bc1a346c08e3bb
+    [member_id] => 6dc0aa7d8c545b08aec2d5797b238691
+    [status] => L
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+------------------------
+
+------------------------
+2020.03.12 9:53:44
+Новая установка
+В БД добавлен новый портал: testchernyak.bitrix24.ru
+------------------------
+
+------------------------
+2020.03.12 9:54:04 UTC
+Входные параметры
+Array
+(
+    [DOMAIN] => testchernyak.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 782ba954c3b222c0689c086351480e3d
+    [AUTH_ID] => b7146a5e004529a00043ea00000000014038039e3470e7792c44f0c6b204ac1b4647da
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a793915e004529a00043ea00000000014038035a39c6aedbbaaba5e1bc1a346c08e3bb
+    [member_id] => 6dc0aa7d8c545b08aec2d5797b238691
+    [status] => L
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+------------------------
+
+------------------------
+2020.03.12 9:54:54 UTC
+Входные параметры
+Array
+(
+    [event] => ONCRMDEALADD
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 181
+                )
+
+        )
+
+    [ts] => 1584006892
+    [auth] => Array
+        (
+            [access_token] => fc146a5e004529a00043ea000000000100000351f28e239479fbe74b94c7dd9128157d
+            [expires] => 1584010492
+            [expires_in] => 3600
+            [scope] => user,crm
+            [domain] => testchernyak.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://testchernyak.bitrix24.ru/rest/
+            [member_id] => 6dc0aa7d8c545b08aec2d5797b238691
+            [user_id] => 1
+            [application_token] => af71d9299be978df905e406727bd0a97
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.03.12 9:54:54 UTC
+Добавлена новая сделка, данные: 
+Array
+(
+    [event] => ONCRMDEALADD
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 181
+                )
+
+        )
+
+    [ts] => 1584006892
+    [auth] => Array
+        (
+            [access_token] => fc146a5e004529a00043ea000000000100000351f28e239479fbe74b94c7dd9128157d
+            [expires] => 1584010492
+            [expires_in] => 3600
+            [scope] => user,crm
+            [domain] => testchernyak.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://testchernyak.bitrix24.ru/rest/
+            [member_id] => 6dc0aa7d8c545b08aec2d5797b238691
+            [user_id] => 1
+            [application_token] => af71d9299be978df905e406727bd0a97
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.03.12 9:54:54 UTC
+Обновляемый токен
+a793915e004529a00043ea00000000014038035a39c6aedbbaaba5e1bc1a346c08e3bb
+------------------------
+
+------------------------
+2020.03.12 9:54:55 UTC
+Полученные curl данные: 
+Array
+(
+    [access_token] => ff146a5e004529a00043ea000000000140380328453881fc53d1a8f9ca9a6f9d01d354
+    [expires] => 1584010495
+    [expires_in] => 3600
+    [scope] => app
+    [domain] => testchernyak.bitrix24.ru
+    [server_endpoint] => https://oauth.bitrix.info/rest/
+    [status] => L
+    [client_endpoint] => https://testchernyak.bitrix24.ru/rest/
+    [member_id] => 6dc0aa7d8c545b08aec2d5797b238691
+    [user_id] => 1
+    [refresh_token] => ef93915e004529a00043ea000000000140380360a24daad33857f9cbbd451a5b7b151b
+)
+
+------------------------
+
+------------------------
+2020.03.12 9:54:55 UTC
+Получение рабочего токена
+Array
+(
+    [access_token] => ff146a5e004529a00043ea000000000140380328453881fc53d1a8f9ca9a6f9d01d354
+    [expires] => 1584010495
+    [expires_in] => 3600
+    [scope] => app
+    [domain] => testchernyak.bitrix24.ru
+    [server_endpoint] => https://oauth.bitrix.info/rest/
+    [status] => L
+    [client_endpoint] => https://testchernyak.bitrix24.ru/rest/
+    [member_id] => 6dc0aa7d8c545b08aec2d5797b238691
+    [user_id] => 1
+    [refresh_token] => ef93915e004529a00043ea000000000140380360a24daad33857f9cbbd451a5b7b151b
+)
+
+------------------------
+
+------------------------
+2020.03.12 9:54:55 UTC
+URL-REST
+https://testchernyak.bitrix24.ru/rest/crm.deal.list.json
+------------------------
+
+------------------------
+2020.03.12 9:54:55 UTC
+Параметры
+Array
+(
+    [filter] => Array
+        (
+            [ID] => 181
+        )
+
+    [select] => Array
+        (
+            [0] => ID
+            [1] => TITLE
+            [2] => UF_CRM_CITY
+            [3] => COMMENTS
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.03.12 9:54:55 UTC
+Токен
+ff146a5e004529a00043ea000000000140380328453881fc53d1a8f9ca9a6f9d01d354
+------------------------
